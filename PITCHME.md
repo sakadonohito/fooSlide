@@ -35,9 +35,7 @@ console.log("サバ");
 echo 'Hello world.'
 ```
 
-+++
-
----?gist=7824193
++++?gist=7824193
 
 gistのコード
 
