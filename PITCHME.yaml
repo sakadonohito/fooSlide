@@ -1,0 +1,10 @@
+---
+theme: sky
+
+logo: logo.png
+
+transition: fade
+
+slide-number: true
+
+charts: true
